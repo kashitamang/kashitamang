@@ -8,13 +8,15 @@
 <div align="center">
 <h1 align="center">i’m kashi</h1>
 <br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kashitamang-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kashitamang)
+  
+  <br>
 👀 I’m interested in user experience and creative interfaces.
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kashitamang-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kashitamang)
-
-🚀 I use daily:
+🚀 I'm always ready to use:
 <br>
 <br>
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
