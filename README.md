@@ -1,4 +1,4 @@
-<h1>👋🏽 Hi, I’m @kashitamang</h1>
+<h1>👋🏽 Hi, I’m kashi </h1>
 <br>
 👀 I’m interested in user experience and creative interfaces.
 <br>
