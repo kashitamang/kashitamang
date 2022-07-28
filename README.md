@@ -4,14 +4,15 @@
 ███████ █████   ██      ██      ██    ██    
 ██   ██ ██      ██      ██      ██    ██    
 ██   ██ ███████ ███████ ███████  ██████  ▄█ 
+
 </pre>
 <div align="center">
-<h1 align="center">i’m kashi</h1>
-<br>
+  <pre>
+  <h1>i’m kashi</h1>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kashitamang-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kashitamang)
+  </pre>
   
-  <br>
 👀 I’m interested in user experience and creative interfaces.
 <br>
 <br>
