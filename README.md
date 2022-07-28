@@ -1,4 +1,12 @@
-<h1>👋🏽 Hi, I’m kashi </h1>
+<div align="center">
+██   ██     ███████     ██          ██           ██████      
+██   ██     ██          ██          ██          ██    ██     
+███████     █████       ██          ██          ██    ██     
+██   ██     ██          ██          ██          ██    ██     
+██   ██     ███████     ███████     ███████      ██████      
+</div>                                                       
+
+<h1 align="center">👋🏽 Hi, I’m kashi </h1>
 <br>
 👀 I’m interested in user experience and creative interfaces.
 <br>
@@ -6,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kashitamang-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kashitamang)
 
-🚀 I am most comfortable working with:
+🚀 I use daily:
 <br>
 <br>
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
@@ -20,6 +28,9 @@
   [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   
 💻 I am currently learning:
 <br>
