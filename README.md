@@ -9,6 +9,7 @@
 <div align="center">
   <pre>
   <h1>i’m kashi</h1>
+  <p>they/them</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kashitamang-informational?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kashitamang)
   </pre>
