@@ -47,13 +47,13 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-
 💻 I am currently learning:
 <br>
 <br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-181818?style=for-the-badge&logoColor=white)
 <br>
-
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashitamang&theme=react&show_icons=true)
   
