@@ -9,8 +9,6 @@
 <div align="center">
   <pre>
   <h1>i’m kashi</h1>
-  <p>they/them</p>
-
   </pre>
   
 👀 I’m interested in user experience and creative interfaces.
