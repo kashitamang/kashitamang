@@ -8,7 +8,9 @@
 </pre>
 <div align="center">
   <pre>
-  <h1>i’m kashi</h1>
+  <h1>I’m Kashi</h1>
+  I am a Full Stack Software Engineer currently working in technical and instructional assistance. 
+  
   </pre>
   
 👀 I’m interested in user experience and creative interfaces.
