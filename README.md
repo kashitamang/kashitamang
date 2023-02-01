@@ -9,7 +9,7 @@
 <div align="center">
   <pre>
   <h1>I’m Kashi</h1>
-  I am a Full Stack Software Engineer currently working in technical and instructional assistance. 
+  I am a Full Stack Software Engineer currently working in technical support and instructional assistance. 
   
   </pre>
   
