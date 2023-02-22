@@ -9,7 +9,7 @@
 <div align="center">
   <pre>
   <h1>I’m Kashi</h1>
-  I am a Full Stack Software Engineer currently working in technical support and instructional assistance. 
+  I am a Mobile Engineer currently working at Nike. 
   
   </pre>
   
@@ -50,7 +50,11 @@
 💻 I am currently learning:
 <br>
 <br>
-![Procreate](https://img.shields.io/badge/Procreate-181818?style=for-the-badge&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 <br>
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashitamang&theme=react&show_icons=true)
