@@ -60,7 +60,7 @@
 
 <br>
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashitamang&theme=react&show_icons=true)
+<!-- … -->![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashitamang&theme=react&show_icons=true)
   
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 </div>
